@@ -1,0 +1,18 @@
+/**
+*Author: Michael Bagazinski
+*Date: 2018/01/2
+*
+*This program will print my name when prompted.
+*/
+
+#include<stdlib.h>
+#include<stdio.h>
+
+int main()
+
+{
+
+  printf("Michael Bagazinski\n");
+
+  return 0;
+}
